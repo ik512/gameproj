@@ -1,0 +1,12 @@
+C:\AsteroidProj\AsteroidProj\bin\Debug\AsteroidProj.exe.config
+C:\AsteroidProj\AsteroidProj\bin\Debug\AsteroidProj.exe
+C:\AsteroidProj\AsteroidProj\bin\Debug\AsteroidProj.pdb
+C:\AsteroidProj\AsteroidProj\obj\Debug\AsteroidProj.Properties.Resources.resources
+C:\AsteroidProj\AsteroidProj\obj\Debug\AsteroidProj.csproj.GenerateResource.cache
+C:\AsteroidProj\AsteroidProj\obj\Debug\AsteroidProj.exe
+C:\AsteroidProj\AsteroidProj\obj\Debug\AsteroidProj.pdb
+C:\AsteroidProj\AsteroidProj\obj\Debug\AsteroidProj.csprojAssemblyReference.cache
+C:\AsteroidProj\AsteroidProj\bin\Debug\output.exe
+C:\AsteroidProj\AsteroidProj\bin\Debug\output.pdb
+C:\AsteroidProj\AsteroidProj\bin\Debug\output.exe.config
+C:\AsteroidProj\AsteroidProj\obj\Debug\AsteroidProj.csproj.CopyComplete
